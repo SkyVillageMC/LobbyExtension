@@ -1,0 +1,10 @@
+{
+  "entrypoint": "hu.bendi.lobby.LobbyExtension",
+  "name": "Lobby",
+  "version": "1.0.0",
+  "dependencies": [],
+  "externalDependencies": {
+    "repositories": [],
+    "artifacts": []
+  }
+}
